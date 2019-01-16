@@ -12,3 +12,4 @@
 * JWT - Json Web Token
 * Lodash 
 * Validator
+* eslint
